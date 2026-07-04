@@ -39,3 +39,6 @@ This is pattern-matching against known field values, not real-time correlation o
 ### React dashboard
 1. `npm install`
 2. `npm run dev`
+
+## Sample Data
+Sample .evtx files are not included in this repo. Download them from [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) — specific files used: Sysmon_UACME_33.evtx, evasion_persis_hidden_run_keyvalue_sysmon_13.evtx, sysmon_10_lsass_mimikatz_sekurlsa_logonpasswords.evtx
